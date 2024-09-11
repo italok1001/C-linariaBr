@@ -9,6 +9,5 @@ Este projeto web é um diretório de receitas tradicionais brasileiras. O usuár
 * **JavaScript:** Lógica para a pesquisa e exibição dos resultados.
 
 ### Como Utilizar
-1. **Clone o repositório:**
-   ```bash
-   git clone https://[seu_repositorio]
+* **Pesquisa:** Ao digitar o nome de um prato no campo de pesquisa e clicar no botão "Pesquisar", o JavaScript varre a lista de receitas em busca de correspondências.
+* **Resultados:** Os resultados da pesquisa são exibidos na tela, mostrando o título da receita, uma breve descrição e um link para o vídeo tutorial no YouTube.
